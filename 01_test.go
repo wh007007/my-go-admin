@@ -5,5 +5,5 @@ import (
 )
 
 func Test01(t *testing.T) {
-	t.Log("success")
+	t.Log("success1")
 }
