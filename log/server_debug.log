@@ -1,0 +1,8 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/27 - 13:00:22.401	[35mdebug[0m	C:/project/gin-vue-admin/server/utils/directory.go:40	create directoryautocode_template\server\sysUsers\api
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/27 - 13:00:22.411	[35mdebug[0m	C:/project/gin-vue-admin/server/utils/directory.go:40	create directoryautocode_template\server\sysUsers\model
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/27 - 13:00:22.414	[35mdebug[0m	C:/project/gin-vue-admin/server/utils/directory.go:40	create directoryautocode_template\server\sysUsers\request
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/27 - 13:00:22.417	[35mdebug[0m	C:/project/gin-vue-admin/server/utils/directory.go:40	create directoryautocode_template\server\sysUsers\router
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/27 - 13:00:22.421	[35mdebug[0m	C:/project/gin-vue-admin/server/utils/directory.go:40	create directoryautocode_template\server\sysUsers\service
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/27 - 13:00:22.423	[35mdebug[0m	C:/project/gin-vue-admin/server/utils/directory.go:40	create directoryautocode_template\web\sysUsers\api
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/27 - 13:00:22.428	[35mdebug[0m	C:/project/gin-vue-admin/server/utils/directory.go:40	create directoryautocode_template\web\sysUsers\form
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/27 - 13:00:22.432	[35mdebug[0m	C:/project/gin-vue-admin/server/utils/directory.go:40	create directoryautocode_template\web\sysUsers\table

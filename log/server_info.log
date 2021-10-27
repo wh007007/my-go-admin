@@ -1,0 +1,36 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/27 - 10:52:16.561	[34minfo[0m	C:/project/gin-vue-admin/server/initialize/router.go:31	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/27 - 10:52:16.566	[34minfo[0m	C:/project/gin-vue-admin/server/initialize/router.go:34	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/27 - 10:52:16.566	[34minfo[0m	C:/project/gin-vue-admin/server/initialize/router.go:36	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/27 - 10:52:16.571	[34minfo[0m	C:/project/gin-vue-admin/server/initialize/router.go:79	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/27 - 10:52:16.574	[34minfo[0m	C:/project/gin-vue-admin/server/core/server.go:37	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/27 - 11:16:37.123	[34minfo[0m	C:/project/gin-vue-admin/server/initialize/router.go:31	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/27 - 11:16:37.125	[34minfo[0m	C:/project/gin-vue-admin/server/initialize/router.go:34	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/27 - 11:16:37.126	[34minfo[0m	C:/project/gin-vue-admin/server/initialize/router.go:36	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/27 - 11:16:37.155	[34minfo[0m	C:/project/gin-vue-admin/server/initialize/router.go:79	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/27 - 11:16:37.160	[34minfo[0m	C:/project/gin-vue-admin/server/core/server.go:37	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/27 - 11:21:09.066	[34minfo[0m	C:/project/gin-vue-admin/server/initialize/router.go:31	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/27 - 11:21:09.068	[34minfo[0m	C:/project/gin-vue-admin/server/initialize/router.go:34	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/27 - 11:21:09.068	[34minfo[0m	C:/project/gin-vue-admin/server/initialize/router.go:36	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/27 - 11:21:09.072	[34minfo[0m	C:/project/gin-vue-admin/server/initialize/router.go:79	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/27 - 11:21:09.074	[34minfo[0m	C:/project/gin-vue-admin/server/core/server.go:37	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/27 - 11:33:57.907	[34minfo[0m	C:/project/gin-vue-admin/server/initialize/router.go:31	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/27 - 11:33:57.910	[34minfo[0m	C:/project/gin-vue-admin/server/initialize/router.go:34	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/27 - 11:33:57.910	[34minfo[0m	C:/project/gin-vue-admin/server/initialize/router.go:36	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/27 - 11:33:57.936	[34minfo[0m	C:/project/gin-vue-admin/server/initialize/router.go:79	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/27 - 11:33:57.940	[34minfo[0m	C:/project/gin-vue-admin/server/core/server.go:37	server run success on 	{"address": ":8080"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/27 - 11:35:31.925	[34minfo[0m	C:/project/gin-vue-admin/server/initialize/router.go:31	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/27 - 11:35:31.930	[34minfo[0m	C:/project/gin-vue-admin/server/initialize/router.go:34	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/27 - 11:35:31.931	[34minfo[0m	C:/project/gin-vue-admin/server/initialize/router.go:36	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/27 - 11:35:31.938	[34minfo[0m	C:/project/gin-vue-admin/server/initialize/router.go:79	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/27 - 11:36:01.468	[34minfo[0m	C:/project/gin-vue-admin/server/core/server.go:37	server run success on 	{"address": ":8080"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/27 - 11:53:55.573	[34minfo[0m	C:/project/gin-vue-admin/server/initialize/router.go:31	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/27 - 11:53:55.576	[34minfo[0m	C:/project/gin-vue-admin/server/initialize/router.go:34	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/27 - 11:53:55.576	[34minfo[0m	C:/project/gin-vue-admin/server/initialize/router.go:36	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/27 - 11:53:55.578	[34minfo[0m	C:/project/gin-vue-admin/server/initialize/router.go:79	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/27 - 11:53:55.581	[34minfo[0m	C:/project/gin-vue-admin/server/core/server.go:37	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/27 - 11:59:33.958	[34minfo[0m	C:/project/gin-vue-admin/server/initialize/router.go:31	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/27 - 11:59:33.960	[34minfo[0m	C:/project/gin-vue-admin/server/initialize/router.go:34	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/27 - 11:59:33.961	[34minfo[0m	C:/project/gin-vue-admin/server/initialize/router.go:36	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/27 - 11:59:33.992	[34minfo[0m	C:/project/gin-vue-admin/server/initialize/router.go:79	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/27 - 11:59:33.995	[34minfo[0m	C:/project/gin-vue-admin/server/core/server.go:37	server run success on 	{"address": ":8688"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/27 - 12:10:15.559	[34minfo[0m	C:/project/gin-vue-admin/server/api/v1/system/sys_initdb.go:52	前往初始化数据库
